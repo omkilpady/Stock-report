@@ -1,6 +1,5 @@
-streamlit==1.37.1
-yfinance==0.2.43
-pandas==2.2.2
-numpy==1.26.4
-reportlab==4.2.2
-openai==1.37.1
+streamlit>=1.33,<1.40
+yfinance>=0.2.40,<0.3
+pandas>=2.2,<2.3
+numpy>=1.26,<2
+reportlab>=4.2,<4.3
